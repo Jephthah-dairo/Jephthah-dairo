@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jephthah Dairo
 
-<!--
-**Jephthah-dairo/Jephthah-dairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UI/UX designer and AI generalist evaluator with experience in digital product design, AI response evaluation, and multimodal data annotation.
 
-Here are some ideas to get you started:
+## Areas of work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Designing user-centered mobile and web experiences, from user flows and wireframes to prototypes and high-fidelity interfaces
+- Evaluating AI responses for accuracy, relevance, reasoning quality, and instruction following
+- Annotating image, video, and audio data for machine learning workflows
+- Exploring prompt engineering, generative AI, and digital transformation
+
+## Skills and tools
+
+Figma · User research · Wireframing · Prototyping · Responsive UI · Front-end development · AI evaluation · Data annotation · Prompt writing
+
+## Background
+
+B.Tech. in Applied Geology, Federal University of Technology, Akure. Professional certifications include Google UX Design, Meta Front-End Developer, IBM Generative AI, IBM AI Engineering, TESOL, and Google AI Essentials.
